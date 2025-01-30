@@ -1,6 +1,6 @@
 # VisuaLab - AI Image Processing SaaS Platform
 
-**VisuaLab** is an AI-powered SaaS platform that offers advanced image transformation features such as restoration, recoloring, object removal, generative filling, and background removal. Built with modern technologies like **Next.js 14**, **MongoDB**, **Cloudinary AI**, and **Stripe**, VisuaLab provides a secure and seamless experience for users to process their images with ease.
+**VisuaLab** is an AI-powered SaaS platform that offers advanced image transformation features such as restoration, recoloring, object removal, generative filling, and background removal. Built with modern technologies like **Next.js**, **MongoDB**, **Cloudinary AI**, and **Stripe**, VisuaLab provides a secure and seamless experience for users to process their images with ease.
 
 ## Features
 
@@ -13,7 +13,7 @@
 
 ## Tech Stack
 
-- **Frontend:** Next.js 14, React.js, Tailwind CSS, Bootstrap
+- **Frontend:** Next.js, React.js, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, TypeScript
 - **Database:** MongoDB
 - **Cloud & AI:** Cloudinary AI, Stripe, Clerk
@@ -28,3 +28,15 @@ Ensure the following are installed on your machine:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 - [Git](https://git-scm.com/)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Shrashti04/AI-SaaS-Platform-Visual_Lab
+cd Visual_Lab
+```
+### Installation
+
+Install the project dependencies using npm:
+```bash
+npm run dev
